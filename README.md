@@ -76,8 +76,6 @@ This was a guided project from **DataScience RoadMap** on YouTube. Huge thanks t
 
 ## 🖼️ Screenshots / Demo
 
-## 🖼️ Screenshots / Demo
-
 ![Amazon Prime Video Dashboard](https://github.com/divyamehulmakwana-bit/Amazon-Prime-Video-Analysis-using-PowerBi/blob/main/Prime%20Video%20Analysis%20Report.png)
 
 
